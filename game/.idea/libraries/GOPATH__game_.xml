@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;game&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../beego-project" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../Strong-go" />
+      <root url="file://$PROJECT_DIR$/../sorter" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../beego-project" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../Strong-go" />
+      <root url="file://$PROJECT_DIR$/../sorter" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
